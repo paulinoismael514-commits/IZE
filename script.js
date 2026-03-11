@@ -1,1 +1,3 @@
-
+function mostrarEdad() {
+    alert('paulino');
+}
